@@ -46,7 +46,7 @@
 <img src="screenshots/utm_vm.png" width="250"><img src="screenshots/utm_vm2.png" width="250"><img src="screenshots/utm_vm3.png" width="250">
 
 - Select **Import VHDX Image**  
-- In **Boot VHDX Image**, attach the file from Step 1  
+- In Boot VHDX Image, attach the file from Step 1  
 
 ![VHDX import](screenshots/vhdx/utm/utm_vm_windows_vhdx.png)
 
@@ -55,7 +55,7 @@
 ---
 
 ### 4. Connect to the Internet in the VM  
-- Press **Shift + Fn + F10** to open the Command Prompt  
+- Press `Shift + Fn + F10` to open the Command Prompt  
 - Type `taskmgr` to launch Task Manager  
 
 <img src="screenshots/vhdx/utm/utm_vm_windows_network.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_network2.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_network3.png" width="250">
@@ -67,8 +67,8 @@
 
 <img src="screenshots/vhdx/utm/utm_vm_windows_network4.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_network5.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_network6.png" width="250">
 
-- Open drive D: and install `utm-guest-tools`  
-- Confirm network access (you may need to reboot)  
+- Open drive D: and install **utm-guest-tools** 
+- Confirm network access (you may need to reboot)
 
 <img src="screenshots/vhdx/utm/utm_vm_windows_network7.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_network8.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_network9.png" width="250">
 
@@ -81,6 +81,6 @@
 
 - Go to **Add a language** → Search and add **Korean**  
 - Set it as your Windows display language  
-- Use **Command + Space** to switch between Korean and English keyboards  
+- Use `Command + Space` to switch between Korean and English keyboards  
 
 <img src="screenshots/vhdx/utm/utm_vm_windows_language.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_language2.png" width="250"><img src="screenshots/vhdx/utm/utm_vm_windows_languague3.png" width="250">
